@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Luis Rodriguez and electromechanical engineer, technology lover
+- 👋 Hi, I’m Luis Rodriguez an electromechanical engineer, technology lover
 - 👀 I’m interested in software, java, python, web development and mobile development
 - 🌱 I’m currently learning everything related with software
 - 💞️ I’m looking to collaborate on frontend and backend development
